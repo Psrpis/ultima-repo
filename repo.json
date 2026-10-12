@@ -1,0 +1,8 @@
+{
+  "name": "Ultima Repo",
+  "description": "Sadece Ultima",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Psrpis/ultima-repo/main/plugins.json"
+  ]
+}
