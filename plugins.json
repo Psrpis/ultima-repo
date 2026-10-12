@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
+    "status": 1,
+    "version": 63,
+    "name": "Ultima",
+    "internalName": "Ultima",
+    "authors": ["RowdyRushya", "Phisher98"],
+    "description": "All-in-One home screen",
+    "language": "en",
+    "tvTypes": ["All"],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+    "apiVersion": 1
+  }
+]
